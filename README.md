@@ -29,7 +29,7 @@ a pasta do projeto e digite: **make**
 ### Comando procurar mensagens do Diário.
 
 - Digite no prompt: 
-**./diary searc menssagem_que_quer_encontrar** 
+**./diary searc mensagem_que_quer_encontrar** 
 
 
 
