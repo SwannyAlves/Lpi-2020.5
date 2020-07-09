@@ -11,8 +11,11 @@ class Carro{
         int numPortas;
         int velocidade;
 
+        Carro(string tipo);
+        Carro();
+
         void acelera(int velocidade);
         void freia(int freia);
-
+        int qtdCarros;
 };
 
